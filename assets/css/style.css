@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    }
+
+p {
+    color: aliceblue;
+    }
+
+.jumbotron {
+    background-color: green;
+    text-align: center;
+    }
+
+.center {
+    text-align: center;
+}
